@@ -11,7 +11,7 @@ Pulling information from those whose presence brings you joy. It now screenshots
 
 2. Go into the "data" folder and open "following.js"
 
-3. Copy contents into CyberChef and use the recipe in "CyberChefRecipe.txt" to clean it up. Save that as "following.txt" (Select the folder icon in cyberchef and 'load recipe')
+3. Copy contents into [CyberChef](https://cyberchef.org/) and use the recipe in "CyberChefRecipe.txt" to clean it up. Save that as "following.txt" (Select the folder icon in cyberchef and 'load recipe')
 
 4. Run FollowingCheck.py and wait while it copies the name, bio, and website of everyone you follow into "Contacts.csv"
 
